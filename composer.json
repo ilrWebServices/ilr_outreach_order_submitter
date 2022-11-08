@@ -1,0 +1,9 @@
+{
+  "name": "drupal/ilr_outreach_order_submitter",
+  "description": "Custom Drupal module that submits orders to Salesforce",
+  "type": "drupal-module",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/salesforce": "~5.0"
+  }
+}
