@@ -1,7 +1,7 @@
 name: 'ILR Outreach Order Submitter'
 type: module
 description: 'Custom Drupal module that submits orders to Salesforce'
-core_version_requirement: ^9
+core_version_requirement: ^9.4 || ^10
 package: 'ILR'
 dependencies:
   - webform
